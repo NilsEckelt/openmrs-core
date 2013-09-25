@@ -1086,7 +1086,7 @@ public final class OpenmrsConstants {
 	public static final String GP_DASHBOARD_CONCEPTS = "dashboard.header.showConcept";
 
 	public static final String GP_MAIL_SMTP_STARTTLS_ENABLE = "mail.smtp.starttls.enable";
-
+	
 	/**
 	 * At OpenMRS startup these global properties/default values/descriptions are inserted into the
 	 * database if they do not exist yet.
