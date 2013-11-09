@@ -1084,7 +1084,7 @@ public final class OpenmrsConstants {
 	public static final String GP_CASE_SENSITIVE_NAMES_IN_CONCEPT_NAME_TABLE = "concept.caseSensitiveNamesInConceptNameTable";
 	
 	public static final String GP_DASHBOARD_CONCEPTS = "dashboard.header.showConcept";
-	
+
 	public static final String GP_MAIL_SMTP_STARTTLS_ENABLE = "mail.smtp.starttls.enable";
 	
 	/**
